@@ -5,3 +5,4 @@
 * Salt
 
 ## Instructions
+* Cut up some avocados (Emma)
