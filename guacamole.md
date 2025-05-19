@@ -3,7 +3,7 @@
 * Avocado
 * Lime
 * Salt
-
+* Cilantro
 ## Instructions
 * Cut up some avocados (Emma)
 * Mass avocado flesh
