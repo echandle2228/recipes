@@ -6,3 +6,5 @@
 
 ## Instructions
 * Cut up some avocados (Emma)
+* Mass avocado flesh
+* Squeeze juice from limes
